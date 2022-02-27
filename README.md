@@ -1,5 +1,5 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-f059dc9a6f8d3a56e377f745f24479a46679e63a5d9fe6f495e02850cd0d8118.svg)](https://classroom.github.com/online_ide?assignment_repo_id=6819300&assignment_repo_type=AssignmentRepo)
-[TODO: Replace with your Netflify status badge]
+[![Netlify Status](https://api.netlify.com/api/v1/badges/54c6a1fa-3ad8-4343-904a-6ee807040025/deploy-status)](https://app.netlify.com/sites/mayme-bakery-timeline/deploys)
 
 # JavaScript Assessment
 
